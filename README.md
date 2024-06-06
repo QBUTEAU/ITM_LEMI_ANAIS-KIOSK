@@ -10,5 +10,3 @@ Dans le cadre de mon stage de B.U.T.2 MMI au sein de la base ITM LEMI d'Anais, j
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ### © 2024 Quentin Buteau - [Groupement Les Mousquetaires](https://www.mousquetaires.com/) | Tous droits réservés
-
-<img src="https://www.mousquetaires.com/wp-content/uploads/2019/11/les-mousquetaires.jpg" alt="Les Mousquetaires logo"/> 
