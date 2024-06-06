@@ -1,0 +1,92 @@
+body{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	gap: 0;
+	width: 100vw;
+	margin: 0 auto;
+	font-family: "Outfit";
+	background-color: rgb(243, 243, 243);
+}
+
+header{
+	display: flex;
+	align-items: center;
+	gap: 30px;
+	width: max-content;
+	margin: auto;
+	margin-top: 5vh;
+	border: 2px black solid;
+	background-color: rgb(231, 231, 231);
+	color: rgb(0, 0, 0);
+	border-radius: 10px;
+	padding: 10px 25px;
+}
+
+.header__logo{
+	height: 50px;
+}
+
+section{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-wrap: wrap;
+	gap: 50px;
+	margin: 0 auto;
+	margin-top: 100px;
+	width: 95vw;
+}
+
+div{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
+
+p{
+	font-size: 20px;
+	color: black;
+	font-weight : bold;
+	margin: 0;
+	text-align: center;
+}
+span{
+	margin: 0;
+	width: 100%;
+	text-align: center;
+	font-size: 14px;
+	color: black;
+	text-decoration: underline;
+}
+
+.raccourcis{
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	border: 2px rgb(189, 189, 189) solid;
+	border-radius: 10px;
+	height: 150px;
+	width: 400px;
+	text-decoration: none;
+	padding: 20px 10px;
+	transition: 0.25s;
+}
+
+#mabeo img{
+	width: 58%;
+}
+
+.raccourcis img{
+	width: 70%;
+	margin: auto;
+}
+
+.raccourcis:hover{
+	background-color: white;
+	border: 2px black solid;
+}
