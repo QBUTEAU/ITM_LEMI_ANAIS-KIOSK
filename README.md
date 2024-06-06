@@ -1,4 +1,4 @@
-# <img src="https://www.mousquetaires.com/wp-content/uploads/2019/11/les-mousquetaires.jpg" alt="Les Mousquetaires logo" width="50"/> - Site Kiosk - ITM LEMI Base d'Anais
+# <img src="https://www.mousquetaires.com/wp-content/uploads/2019/11/les-mousquetaires.jpg" alt="Les Mousquetaires logo" width="60"/> - Site Kiosk - ITM LEMI Base d'Anais
 
 Site présent sur des kiosques informatiques au sein de la base ITM LEMI d'Anais.
 
