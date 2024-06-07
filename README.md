@@ -3,7 +3,7 @@
 Page web présente sur des kiosques informatiques au sein de la base ITM LEMI d'Anais.
 
 ### 📜 Description :
-Dans le cadre de mon stage de B.U.T.2 MMI au sein de la base ITM LEMI d'Anais (16), j'ai eu comme petite mission de modifier la page de raccourcis des kiosques informatiques présents dans différents bâtiments du site, permettant ainsi aux employés de naviguer sur celui-ci avec une toute nouvelle interface simple et facile d'utilisation.
+Dans le cadre de mon stage de B.U.T.2 MMI au sein de la base ITM LEMI d'Anais (16), j'ai eu comme petite mission de modifier la page locale de raccourcis des kiosques informatiques présents dans différents bâtiments du site, permettant ainsi aux employés de naviguer sur celui-ci avec une toute nouvelle interface simple et facile d'utilisation.
 
 ### 💻 Langages utilisés :
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
